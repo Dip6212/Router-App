@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Router-App/static/css/main.9a6ab7b1.css",
+    "main.js": "/Router-App/static/js/main.7f4b6611.js",
+    "static/media/signup.png": "/Router-App/static/media/signup.b431d919de01b6515dd6.png",
+    "static/media/login.png": "/Router-App/static/media/login.4d877a447365e5137b67.png",
+    "static/media/frame.png": "/Router-App/static/media/frame.3a238e5f26d676376e1d.png",
+    "static/media/Logo.svg": "/Router-App/static/media/Logo.fd896773ef070a122541fd8722efa10f.svg",
+    "index.html": "/Router-App/index.html",
+    "main.9a6ab7b1.css.map": "/Router-App/static/css/main.9a6ab7b1.css.map",
+    "main.7f4b6611.js.map": "/Router-App/static/js/main.7f4b6611.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a6ab7b1.css",
+    "static/js/main.7f4b6611.js"
+  ]
+}
